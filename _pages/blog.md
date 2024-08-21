@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /divulgação/blog/
-title: divulgação/blog
+permalink: /divulgação/outreach/
+title: divulgação/outreach
 nav: true
 nav_order: 4
 pagination:
